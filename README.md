@@ -1,5 +1,5 @@
 # javascript-challenge
- Bootcampspot Javascript homework
+ UCSD/Trilogy Bootcampspot Javascript homework March 2021
 
 Final files are in UFO-Level-1 folder.  Files at the root level should be identical but were working copies.  
 
